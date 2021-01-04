@@ -1,6 +1,6 @@
 # blog-cu
 
-[Live Demo](https://fergv.github.io/blog-cu/)
+[Live Demo](https://fergv.com/blog-cu/)
 
 School blog for 'Ubicomp'.
 
